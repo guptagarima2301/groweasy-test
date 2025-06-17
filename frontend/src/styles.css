@@ -1,0 +1,8 @@
+.container { max-width: 400px; margin: 2rem auto; padding: 2rem; background: #f8f8f8; border-radius: 8px; }
+.lead-form input, .chat-input input { width: 100%; padding: 8px; margin: 6px 0; border-radius: 4px; border: 1px solid #ccc; }
+.lead-form button, .chat-input button { padding: 8px 16px; margin-top: 8px; background: #3b82f6; color: #fff; border: none; border-radius: 4px; cursor: pointer; }
+.chat-box { margin-top: 1rem; }
+.chat-history { min-height: 200px; background: #fff; border: 1px solid #eee; border-radius: 6px; padding: 8px; margin-bottom: 8px; max-height: 220px; overflow-y: auto; }
+.bot-msg { background: #e0eaff; padding: 6px 10px; border-radius: 6px; margin-bottom: 6px; }
+.user-msg { background: #d1f7c4; padding: 6px 10px; border-radius: 6px; margin-bottom: 6px; text-align: right; }
+.result { background: #fef3c7; padding: 10px; border-radius: 6px; margin-top: 10px; }
